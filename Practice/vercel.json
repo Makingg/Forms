@@ -1,8 +1,9 @@
 {
   "rewrites": [
-    { "source": "/(.*)", "destination": "/forms.html" }
+    { "source": "/(.*)", "destination": "/Landing.html" }
   ]
 
 }
+
 
 
